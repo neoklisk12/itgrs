@@ -1,0 +1,12 @@
+.git
+.local
+.agents
+.emergent
+frontend/node_modules
+frontend/build
+backend/__pycache__
+backend/.venv
+backend/venv
+**/.env
+**/.env.*
+test_reports
